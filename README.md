@@ -1,6 +1,6 @@
-# MTRE4002L-LAB0
+# MTRE4002L
 
-This repository's purpose is for me to keep this project organized.
+This repository's purpose is for me to keep my labs for this class organized
 
 ## Usage
 
